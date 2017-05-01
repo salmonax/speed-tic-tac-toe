@@ -1,0 +1,23 @@
+{
+  "name": "speed-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Two pom tic-tac-toe game practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmonax/speed-tic-tac-toe.git"
+  },
+  "author": "George A. Michel <sarumonakuba@gmail.com> (http://abjection.org)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmonax/speed-tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/salmonax/speed-tic-tac-toe#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
